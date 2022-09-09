@@ -1,0 +1,4 @@
+my:
+  greeting: Hello world with spring cloud config server
+  
+label: dev
